@@ -5,15 +5,13 @@
 
 # BYOD Registration Form
 
-<h2>Description</h2>
-Scenario: The city required the migration of its beach wave size prediction page to AWS to enhance the reliability and availability of the service.
+Project Overview: <br>
+As part of the HFA onboarding process, I completed the HFA BYOD Ingest Form—a project designed to document and analyze the technical specifications of my personal computing device. This hands-on assignment required a detailed, two- to three-page report that not only captured my device's specifications but also provided an explanation of its capabilities.
 <br><br>
-Solution: Implemented hosting of a static web page using Amazon S3, ensuring improved performance, scalability, and reliability. Configured the S3 bucket for static website hosting, enabled public access, and integrated appropriate permissions for secure and seamless operation. This solution optimized user access to real-time wave size predictions while reducing downtime and maintenance overhead.
+Project Objectives: <br>
+- Cataloging Device Specifications: In the first section, I gathered and recorded detailed technical specifications of my personal BYOD computing device.
+- Analytical Insight: In the second section, I provided an in-depth explanation of these specifications, exploring what they reveal about the device’s performance and capabilities.
+- Practical Investigation: The project involved investigating the device’s internals, learning how to locate system information using various operating system tools.
+- Visual Documentation: A key component was including a screenshot of the system information, which served as evidence of my findings.
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Navigating to the S3 Section within AWS. AWS has already populated the S3 instances needed for this lab: <br/>
-<img src="images/Screenshot 2024-09-13 at 9.10.12 AM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+<b> See pdf file attached to view the project </b>
