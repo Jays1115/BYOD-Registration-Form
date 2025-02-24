@@ -14,4 +14,4 @@ Project Objectives: <br>
 - Practical Investigation: The project involved investigating the device’s internals, learning how to locate system information using various operating system tools.
 - Visual Documentation: A key component was including a screenshot of the system information, which served as evidence of my findings.
 
-<b> See pdf file attached to view the project </b>
+<b> See project folder attached to view the project </b>
